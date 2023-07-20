@@ -27,38 +27,7 @@ function Main(props) {
       
         <div className="markdown" >
         <section>
-    <ImageList sx={{ width: '100%', height: 170 }} cols={5} rowHeight={164}>
-    <ImageListItem>
-      <img
-        src={require("../assets/images/bakary.jpg")} 
-        loading="lazy"
-      />
-    </ImageListItem>
-    <ImageListItem>
-      <img
-        src={require("../assets/images/haikel.jpg")}
-        loading="lazy"
-      />
-    </ImageListItem>
-    <ImageListItem>
-      <img
-        src={require("../assets/images/baherr.jpg")}
-        loading="lazy"
-      />
-    </ImageListItem>
-    <ImageListItem>
-      <img
-        src={require("../assets/images/amani.jpg")}
-        loading="lazy"
-      />
-    </ImageListItem>
-    <ImageListItem>
-      <img
-        src={require("../assets/images/souhaieb.jpg")}
-        loading="lazy"
-      />
-    </ImageListItem>
-</ImageList>
+   
     </section>
     <Card>
     <CardContent>
@@ -66,7 +35,8 @@ function Main(props) {
       <div>who we are ?</div>
     </Typography>
         <Typography variant="body2">
-        <div>We are the Achievers, a group of dynamic students who are committed to promoting sustainable and responsible agriculture.</div> 
+        <div>
+        I am an Achiever, a dynamic student who is committed to promoting sustainable and responsible agriculture.</div> 
         <div>Our application, Farmer to Consumer, is a marketplace platform that connects farmers directly with consumers and facilitates the delivery process at a lower cost.</div> 
        <div> By providing a direct marketplace for farmers to sell their products, we aim to reduce poverty and improve economic opportunities for small-scale farmers, while promoting sustainable agriculture and reducing the environmental impact of food production and transportation. </div>
         <div>Our application contributes to several SDGs, including No Poverty, Zero Hunger, and Responsible Consumption and Production. To further enhance the impact of our platform, we plan to incorporate features that promote transparency and traceability in the food supply chain, such as providing information on the origin and production practices of the products sold on the platform. </div>

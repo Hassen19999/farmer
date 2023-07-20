@@ -81,8 +81,8 @@ export default function Footer()  {
           <Box>
             <QuickLinkWrapper>
               <Typography>Email: FarmerToConsumer@gmail.com</Typography>
-              <Typography>Tél: +216 93 886 166</Typography>
-              <Typography>Adresse: Esprit Ghazela</Typography>
+              <Typography>Tél: +216 52025086</Typography>
+              <Typography>Adresse: go mycode</Typography>
             </QuickLinkWrapper>
           </Box>
         </Grid>

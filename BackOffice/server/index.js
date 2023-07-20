@@ -12,3 +12,7 @@ app.use(cors());
 app.listen(port, () => {
     console.log(`Application running at port ${port}`)
 })
+
+app.use ((req,res)=>{
+    res.send("API is running...")
+})
