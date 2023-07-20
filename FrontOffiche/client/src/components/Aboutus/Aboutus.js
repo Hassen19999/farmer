@@ -23,9 +23,9 @@ const sections = [
 ];
 
 const mainFeaturedPost = {
-  title: 'The achievers', 
+   
   description:
-    "We are the achievers and we are a dynamic and strong group having great project in order to accomplish a sustainable developpement goal ...",
+    "I am an achiever, and I am a dynamic and strong individual with a great project aimed at accomplishing a sustainable development goal. ...",
   image: 'https://imageio.forbes.com/specials-images/imageserve/62095d35b0ffe7643ac646ca/0x0.jpg?format=jpg&width=1200',
   imageText: 'main image description',
 };
